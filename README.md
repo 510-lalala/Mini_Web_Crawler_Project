@@ -1,0 +1,2 @@
+# Mini_Web_Crawler_Project
+因為辦小畢典需要寄信給教授，於是去系網上爬了所有教授的下來
